@@ -1,3 +1,7 @@
 {
-    "Folders":["en","tr"]
+  "Folders": [
+    "en",
+    "tr"
+  ],
+  "Template": "template.html"
 }
