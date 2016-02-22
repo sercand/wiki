@@ -6,6 +6,8 @@ language = "en"
 author = "Sercan Degirmenci"
 weight = 9
 keywords = ["x", "y"]
+draft = true
+writtenAt = "2016-01-08"
 +++
 # Dummy Content
 ## line 2

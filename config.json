@@ -1,7 +1,11 @@
 {
-  "Folders": [
-    "en",
-    "tr"
-  ],
-  "Template": "template.html"
+    "Folders": [
+        "en",
+        "tr"
+    ],
+    "Template": "template.html",
+    "PublicDirs": {
+        "/css": "css",
+        "/img": "img"
+    }
 }
