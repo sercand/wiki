@@ -7,5 +7,6 @@
     "PublicDirs": {
         "/css": "css",
         "/img": "img"
-    }
+    },
+    "AssetVersion":1
 }
