@@ -6,7 +6,7 @@ language = "tr"
 author = "Sercan Değirmenci"
 weight = 9
 keywords = ["x", "y"]
-draft = true
+draft = false
 written_at = "2016-01-08"
 +++
 # Test İçerik
