@@ -6,7 +6,7 @@ language = "en"
 author = "Sercan Degirmenci"
 weight = 9
 keywords = ["x", "y"]
-draft = true
+draft = false
 written_at = "2016-01-08"
 +++
 # 10 Years of Progress: What We've Learned About Autism
