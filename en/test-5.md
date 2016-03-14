@@ -11,7 +11,7 @@ written_at = "2016-02-08"
 +++
 # 10 Years of Progress: What We've Learned About Autism
 
-<div class="center"><iframe width="560" height="315" class="" src="https://www.youtube.com/embed/fENFwLqhjSE" frameborder="0" allowfullscreen></iframe></div>
+<div class="video center"><div class="video-container"><iframe width="560" height="315" class="" src="https://www.youtube.com/embed/fENFwLqhjSE" frameborder="0" allowfullscreen></iframe></div></div>
 
 Last year marked 10 years of progress since Autism Speaks first opened its doors in 2005.  In 2016, we continue to strive to enhance autism services in every community and get the groundbreaking ABLE Act, now the law of the land, implemented in all 50 states. Our dedicated field teams will be the ones heading this effort.
 
