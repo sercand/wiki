@@ -44,6 +44,11 @@ nav {
 nav p {
     margin: 0;
 }
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
 
 /* Typography
 -------------------------------------------------------- */
