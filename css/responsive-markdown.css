@@ -141,13 +141,35 @@ body {
 @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
 	body {
 
-		font-size: 300%;
+		/*font-size: 300%;*/
 		line-height: 1.4;
-		margin-top: 50px;
-		margin-left: 50px;
+		margin-top: 30px;
+		margin-left: 20px;
 		margin-left: 7%;
 		margin-right: 7%;
 	}
+
+	h1 {
+		font-size: 32px;
+	}
+	h2 {
+		font-size: 26px;
+	}
+	h3 {
+		font-weight: 500;
+		margin-left: 0px;
+		font-size: 18px;
+		margin-bottom: 5px;
+	}
+	p {
+		margin-top:0;
+		-webkit-hypens:auto;
+		-moz-hypens:auto;
+		hyphens:auto;
+		font-size: 16px;
+	}
+
+
 }
 /* @iPad */
 
