@@ -136,6 +136,18 @@ body {
 	}
 } /* @iPad */
 
+/* For portrait layouts only
+-------------------------------------------------------- */
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+	body {
+		font-size: 200%;
+		line-height: 1.4;
+		margin-left: 7%;
+		margin-right: 7%;
+	}
+}
+/* @iPad */
+
 /* iPhone
 -------------------------------------------------------- */
 @media only screen and (max-device-width: 480px) {
