@@ -1,13 +1,13 @@
 +++
-slug = "test-3-tr"
+slug = "suphe-en"
 title = "Ne zaman şüphe etmeliyiz?"
-category = "Genel"
-language = "tr"
+category = "Autism"
+language = "en"
 author = "Tohum Otizm Vakfı"
-weight = 9
-keywords = ["x", "y"]
+weight = 80
+keywords = ["Şüphe", "Belirtiler"]
 draft = false
-written_at = "2016-01-09"
+written_at = "2016-04-09"
 +++
 # Ne zaman şüphe etmeliyiz?
 

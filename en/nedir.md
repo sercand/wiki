@@ -1,15 +1,19 @@
 +++
-slug = "test-1-tr"
+slug = "nedir-en"
 title = "Otizm Spektrum Bozukluğu Nedir?"
-category = "Genel"
-language = "tr"
+category = "Autism"
+language = "en"
 author = "Tohum Otizm Vakfı"
-weight = 9
-keywords = ["x", "y"]
+weight = 90
+keywords = ["Otizm", "Nedir", "Genel"]
 draft = false
-written_at = "2016-01-09"
+written_at = "2016-04-09"
 +++
 # Otizm Spektrum Bozukluğu nedir?
+
+<div class="video center"><div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X6nWodsX5cY" frameborder="0" allowfullscreen></iframe>
+</div></div>
 
 Otizm spektrum bozukluğu, doğuştan gelen ya da yaşamın ilk yıllarında ortaya çıkan karmaşık bir nörogelişimsel bozukluktur. Otizmin, beynin yapısını ya da işleyişini etkileyen bazı sinir sistemi sorunlarından kaynaklandığı sanılmaktadır.
 
@@ -29,3 +33,4 @@ Amerika Hastalık Kontrol ve Önleme Merkezi’nin (Centers for Disease Control 
 Bugün, otizm spektrum bozukluğuna neyin neden olduğu bilinmemekle birlikte genetik temelli olduğuna ilişkin bulgular vardır. Ancak hangi gen ya da genlerin sorumlu olduğu henüz bilinmemektedir. Çevresel faktörlerin genetik alt yapısı oluşmuş bireylerde otizm riskini arttırdığına dair saptamalar vardır. Hem genetik temellerin hem de çevresel faktörlerin etkileri üzerine çok sayıda araştırma yapılmaktadır.
 
 Alıntıdır: [Tohum Otizm Vakfı Eğitim Portalı](http://www.tohumotizmportali.org/icerik/otizmi-anlamak/otizm-spektrum-bozuklugunu-taniyalim/otizm-spektrum-bozuklugu-nedir)
+Alıntıdır: [DoktorTV](http://www.doktortv.com/video/cocuklarda-otizm-nedir)

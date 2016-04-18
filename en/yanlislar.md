@@ -1,13 +1,13 @@
 +++
-slug = "test-4-tr"
+slug = "yanlislar-en"
 title = "Otizm Spektrum Bozukluğu ile ilgili yanlış inanışlar"
-category = "Genel"
-language = "tr"
+category = "Autism"
+language = "en"
 author = "Tohum Otizm Vakfı"
-weight = 9
-keywords = ["x", "y"]
+weight = 75
+keywords = ["Yanlışlar", "İnanışlar"]
 draft = false
-written_at = "2016-01-09"
+written_at = "2016-04-09"
 +++
 # Otizm Spektrum Bozukluğu ile ilgili yanlış inanışlar
 

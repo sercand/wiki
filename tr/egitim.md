@@ -1,13 +1,13 @@
 +++
-slug = "test-5-tr"
+slug = "egitim-tr"
 title = "Otizm Spektrum Bozukluğunda Eğitim, Terapi ve Tedavi Yöntemleri"
-category = "Genel"
+category = "Otizm"
 language = "tr"
 author = "Tohum Otizm Vakfı"
-weight = 9
-keywords = ["x", "y"]
+weight = 75
+keywords = ["Eğitim", "Tedavi", "Terapi"]
 draft = false
-written_at = "2016-01-09"
+written_at = "2016-04-09"
 +++
 # Otizm Spektrum Bozukluğunda Eğitim, Terapi ve Tedavi Yöntemleri
 

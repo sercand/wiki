@@ -1,15 +1,15 @@
 +++
-slug = "test-8-tr"
-title = "Yasal düzenlemeler ve Kaynaştırma"
-category = "Genel"
-language = "tr"
+slug = "yasal-en"
+title = "Yasal Düzenlemeler ve Kaynaştırma"
+category = "General"
+language = "en"
 author = "Tohum Otizm Vakfı"
-weight = 9
-keywords = ["x", "y"]
+weight = 50
+keywords = ["Yasalar", "yasal", "kaynaştırma"]
 draft = false
-written_at = "2016-01-09"
+written_at = "2016-04-09"
 +++
-#  Yasal düzenlemeler ve Kaynaştırma
+#  Yasal Düzenlemeler ve Kaynaştırma
 
 Kaynaştırma herhangi bir yetersizliği olan çocukların genel eğitim okullarında akranları ile aynı eğitim ortamlarında eğitim almalarıdır. Kaynaştırma kavramının altında yatan düşünce, özel gereksinimli çocukların akranlarından ayrıştırılmamaları ve ayrı özel eğitim okulları yerine genel eğitim sınıflarına (normal okullara) devam etmeleridir. Dünyada 1970 li yıllarda kaynaştırma (mainstreaming) kavramı kabul görürken, son yıllarda bütünleştirme (inclusion) kavramı yavaş yavaş kaynaştırmanın yerini almıştır. Aslında bu iki kavram birbirinden farklıdır. Kaynaştırma, akademik ya da davranış özellikleri açısından uygun olan özel gereksinimli çocukların özel eğitim ortamlarından çıkarılarak genel eğitim sınıflarında eğitim almaları olarak tanımlanırken bütünleştirmede, engel derecesine ya da becerilerinin düzeyine bakılmaksızın özel gereksinimli çocukların genel eğitim sınıflarında eğitim alma hakkı olduğu kabul edilir. Ülkemizde kaynaştırma terimi yaygın olarak kullanılmakta; ilgili yasalar ve yönetmeliklerde kaynaştırma bir eğitim modeli olarak tanıtılmaktadır. Bu nedenle otizmli çocukların kaynaştırma yolu ile eğitimleri konusunda bilgi vermek üzere hazırlanan bu modülde kaynaştırma terimi kullanılacaktır.
 

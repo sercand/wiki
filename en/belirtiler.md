@@ -1,13 +1,13 @@
 +++
-slug = "test-2-tr"
+slug = "belirtiler-en"
 title = "Otizm Spektrum Bozukluğunun Belirtileri Nelerdir?"
-category = "Genel"
-language = "tr"
+category = "Autism"
+language = "en"
 author = "Tohum Otizm Vakfı"
-weight = 9
-keywords = ["x", "y"]
+weight = 85
+keywords = ["Belirtiler", "Genel"]
 draft = false
-written_at = "2016-01-09"
+written_at = "2016-04-09"
 +++
 # Otizm Spektrum Bozukluğunun belirtileri nelerdir?
 
