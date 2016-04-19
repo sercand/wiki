@@ -12,6 +12,7 @@ written_at = "2016-04-09"
 # Ne zaman şüphe etmeliyiz?
 
 Eğer çocuğunuz:
+
 * Başkalarıyla göz teması kurmuyorsa, ya da çok kısıtlı göz teması kuruyorsa,
 * 6. ayda gülümsemiyorsa, sizin yüz ifadelerinize kısıtlı tepki veriyor, siz gülünce geri gülmüyorsa,
 * 12. ayda babılamıyorsa, bir şeyi işaret ederek göstermiyorsa, el sallama gibi hareketler yoksa
