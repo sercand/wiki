@@ -20,19 +20,19 @@
                 </div>
                 <div class="video center" id="targetvideo">
                     <div class="video-container">
-                        <iframe width="560" height="315" class="" src="{{.YoutubeLink}}" frameborder="0" allowfullscreen></iframe>
+                        <iframe width="560" height="315" class="" src="{{.Params.youtube}}" frameborder="0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
             <!--{{ /end video }}-->
-            <div id="strechyIncrease" class="parallax__layer parallax__layer--back" style="background-image: url('{{.Thumb}}');">
-
+            <div id="strechyIncrease" class="parallax__layer parallax__layer--back" style="background-image: url('{{.Params.thumb}}');">
                 <div class="bg_gradiant"></div>
-
             </div>
         </div>
         <div id="textArea">
-          {{.Content}}
+        <article class="markdown-body">
+{{.Content}}
+        </article>
         </div>
     </div>
 

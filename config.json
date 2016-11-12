@@ -3,7 +3,7 @@
         "en",
         "tr"
     ],
-    "Template": "template.html",
+    "Template": "template2.html",
     "PublicDirs": {
         "/css": "css",
         "/images": "images",
