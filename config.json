@@ -6,7 +6,8 @@
     "Template": "template.html",
     "PublicDirs": {
         "/css": "css",
-        "/img": "img"
+        "/images": "images",
+        "/js": "js"
     },
-    "AssetVersion":12
+    "AssetVersion":13
 }
