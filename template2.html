@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>{{.Title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="HandheldFriendly" content="true" />
+    <link rel="stylesheet" href="./css/responsive-markdown.css">
+    <link rel="stylesheet" href="./css/norm.css">
+</head>
+
+<body>
+    <div class="parallax" id="paralaxId">
+        <div id="paralaxArea" class="parallax__group">
+            <!--{{ if video }}-->
+            <div class="parallax__layer parallax__layer--base">
+                <div class="playbutton">
+                    <img src="./images/play_button.png" onclick="document.getElementById('targetvideo').style.display = 'block'">
+                </div>
+                <div class="video center" id="targetvideo">
+                    <div class="video-container">
+                        <iframe width="560" height="315" class="" src="{{.YoutubeLink}}" frameborder="0" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+            <!--{{ /end video }}-->
+            <div id="strechyIncrease" class="parallax__layer parallax__layer--back" style="background-image: url('{{.Thumb}}');">
+
+                <div class="bg_gradiant"></div>
+
+            </div>
+        </div>
+        <div id="textArea">
+          {{.Content}}
+        </div>
+    </div>
+
+    <script src="/app.js"></script>
+</body>
+
+</html>

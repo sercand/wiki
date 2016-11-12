@@ -8,6 +8,8 @@ weight = 50
 keywords = ["Before", "Threapy"]
 draft = false
 written_at = "2016-09-01"
+thumb = "https://otsimo.com/image.png"
+youtube = "https://youtube.com/video.html"
 +++
 #  What to Consider Before Starting Autism Therapy
 
