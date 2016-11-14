@@ -8,12 +8,11 @@ weight = 90
 keywords = ["Otizm", "Nedir", "Genel"]
 draft = false
 written_at = "2016-04-09"
+[params]
+thumb = "https://otsimo.com/wp-content/uploads/2016/08/unnamed.jpg"
+youtube = "https://www.youtube.com/embed/X6nWodsX5cY"
 +++
 # Otizm Spektrum Bozukluğu nedir?
-
-<div class="video center"><div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X6nWodsX5cY" frameborder="0" allowfullscreen></iframe>
-</div></div>
 
 Otizm spektrum bozukluğu, doğuştan gelen ya da yaşamın ilk yıllarında ortaya çıkan karmaşık bir nörogelişimsel bozukluktur. Otizmin, beynin yapısını ya da işleyişini etkileyen bazı sinir sistemi sorunlarından kaynaklandığı sanılmaktadır.
 

@@ -8,6 +8,8 @@ weight = 60
 keywords = ["have", "autism"]
 draft = false
 written_at = "2016-09-01"
+[params]
+thumb = "https://storage.googleapis.com/otsimocontent/public/tanyaz.jpg"
 +++
 # Effects of Having a Child With Autism
 

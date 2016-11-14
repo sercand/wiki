@@ -8,6 +8,9 @@ weight = 80
 keywords = ["Şüphe", "Belirtiler"]
 draft = false
 written_at = "2016-04-09"
+[params]
+thumb = "https://otsimo.com/wp-content/uploads/2016/10/photodune-607636-happy-child-in-preschool-m.jpg"
+youtube = "https://www.youtube.com/embed/c8TfbGrwZYk"
 +++
 # Ne zaman şüphe etmeliyiz?
 

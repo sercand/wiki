@@ -8,6 +8,8 @@ weight = 100
 keywords = ["practices", "Education"]
 draft = false
 written_at = "2016-09-01"
+[params]
+thumb = "https://storage.googleapis.com/otsimocontent/public/childtherapyboy.jpg"
 +++
 # Educational Practices for Autism
 
