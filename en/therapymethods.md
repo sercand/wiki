@@ -8,6 +8,8 @@ weight = 75
 keywords = ["Therapy", "Methods"]
 draft = false
 written_at = "2016-09-01"
+[params]
+thumb = "https://storage.googleapis.com/otsimocontent/public/child-care-education-lg.jpg"
 +++
 # Therapy Methods for Autism
 

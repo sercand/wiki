@@ -8,6 +8,8 @@ weight = 70
 keywords = ["Treatment", "Practices"]
 draft = false
 written_at = "2016-09-01"
+[params]
+thumb = "https://otsimo.com/wp-content/uploads/2016/08/1.jpg"
 +++
 # Treatment Practices for Autism
 

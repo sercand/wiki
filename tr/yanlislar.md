@@ -8,6 +8,8 @@ weight = 75
 keywords = ["Yanlışlar", "İnanışlar"]
 draft = false
 written_at = "2016-04-09"
+[params]
+thumb = "https://otsimo.com/wp-content/uploads/2016/08/1.jpg"
 +++
 # Otizm Spektrum Bozukluğu ile ilgili yanlış inanışlar
 
@@ -21,7 +23,7 @@ Aşıların otizme yol açtığı ile ilgili iki görüş bulunmaktadır:
 > (DeStefano, Price, & Weintraub, 2013; Immunization Safety Review Committee, 2010; Stehr-Green et al., 2003; Madsen et al., 2002).
 
 ### 2. Otizmli bireyler zihinsel engellidirler.
- 
+
 Otizm tanısı almış olan bireylerin dil, iletişim ve sosyal etkileşim güçlükleri nedeniyle, bilişsel düzeylerini değerlendirmek oldukça zordur. Ancak son yapılan araştırmalara göre OSB tanısı almış bireylerin yaklaşık % 46 sinin normal ve daha üst düzeyde zekaya sahip oldukları (IQ > 85) belirlenmiştir. Geriye kalan grubun ise normal düzeyin altında zihinsel becerilere sahip oldukları bilinmektedir.
 
 > Her otizmli birey zihinsel engelli değildir.

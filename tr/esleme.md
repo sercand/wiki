@@ -8,6 +8,8 @@ weight = 60
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-04-09"
+[params]
+thumb = "https://otsimo.com/wp-content/uploads/2016/11/24.jpg"
 +++
 #  Eşleme ve Sınıflamanın Önemi
 
