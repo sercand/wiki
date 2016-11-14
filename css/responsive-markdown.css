@@ -85,8 +85,13 @@ hr {
     background-color: #CCCCCC;
 }
 p, blockquote, ul, ol, dl, li, table, pre {
-    margin: 15px 0;
+    margin: 10px 0;
 }
+
+ul {
+    list-style-position: inside;
+}
+
 a, a:visited {
     color: #4183C4;
     background-color: inherit;
