@@ -8,6 +8,8 @@ weight = 80
 keywords = ["Suspect", "Autism"]
 draft = false
 written_at = "2016-09-01"
+[params]
+thumb = "https://otsimo.com/wp-content/uploads/2016/08/u_24-06-2015-010935otizm-3.jpg"
 +++
 # When to Suspect Autism?
 

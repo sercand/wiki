@@ -8,6 +8,8 @@ weight = 50
 keywords = ["Yasalar", "yasal", "kaynaştırma"]
 draft = false
 written_at = "2016-04-09"
+[params]
+thumb = "https://storage.googleapis.com/otsimocontent/public/meclis11.jpg"
 +++
 #  Yasal Düzenlemeler ve Kaynaştırma
 

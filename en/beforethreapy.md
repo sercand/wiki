@@ -8,6 +8,8 @@ weight = 50
 keywords = ["Before", "Threapy"]
 draft = false
 written_at = "2016-09-01"
+[params]
+thumb = "https://storage.googleapis.com/otsimocontent/public/kindergarten-prep.jpg"
 +++
 #  What to Consider Before Starting Autism Therapy
 

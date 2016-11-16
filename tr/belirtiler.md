@@ -8,6 +8,9 @@ weight = 85
 keywords = ["Belirtiler", "Genel"]
 draft = false
 written_at = "2016-04-09"
+[params]
+thumb = "https://otsimo.com/wp-content/uploads/2016/08/u_24-06-2015-010935otizm-3.jpg"
+youtube = "https://www.youtube.com/embed/rKbAwTR7Ok4"
 +++
 # Otizm Spektrum Bozukluğunun belirtileri nelerdir?
 

@@ -8,6 +8,8 @@ weight = 65
 keywords = ["Advice", "Inclusion"]
 draft = false
 written_at = "2016-09-01"
+[params]
+thumb = "https://storage.googleapis.com/otsimocontent/public/Child-The-Best-Education.jpg"
 +++
 # Advice on Successful Inclusion
 
