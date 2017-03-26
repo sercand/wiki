@@ -26,7 +26,7 @@ Eğer çocuğunuz:
 * İşaret ederek gösterdiğiniz bir şeye bakmıyorsa,
 * Parmağıyla işaret ederek istediği şeyi göstermiyorsa,
 * Taklit etmiyorsa ya da çok sınırlı taklit becerisi var ise,
-* 18. ayda hayali oyun, mış-gibi oyun oynamakta zorluk çekiyorsa,
+* On sekizinci ayda hayali oyun, mış-gibi oyun oynamakta zorluk çekiyorsa,
 * Oyuncaklarla amacına uygun oynamayı bilmiyorsa,
 * Akranlarının oynadığı oyunlara ilgi göstermiyorsa ve katılmıyorsa,
 * Konuşmada akranlarının gerisinde kalmışsa ya da garip biçimde konuşuyor:
