@@ -17,11 +17,11 @@ youtube = "https://www.youtube.com/embed/c8TfbGrwZYk"
 Eğer çocuğunuz:
 
 * Başkalarıyla göz teması kurmuyorsa, ya da çok kısıtlı göz teması kuruyorsa,
-* 6. ayda gülümsemiyorsa, sizin yüz ifadelerinize kısıtlı tepki veriyor, siz gülünce geri gülmüyorsa,
-* 12. ayda babılamıyorsa, bir şeyi işaret ederek göstermiyorsa, el sallama gibi hareketler yoksa
-* 12. ayda ismini söylediğinizde bakmıyorsa veya tepki vermiyorsa,
-* 16. ayda tek sözcüklerle konuşmuyorsa,
-* 24. ayda iki sözcüklü cümleler kurmuyorsa
+* Altıncı ayda gülümsemiyorsa, sizin yüz ifadelerinize kısıtlı tepki veriyor, siz gülünce geri gülmüyorsa,
+* On ikinci ayda babılamıyorsa, bir şeyi işaret ederek göstermiyorsa, el sallama gibi hareketler yoksa
+* On ikinci ayda ismini söylediğinizde bakmıyorsa veya tepki vermiyorsa,
+* On altıncı ayda tek sözcüklerle konuşmuyorsa,
+* Yirmi dördüncü ayda iki sözcüklü cümleler kurmuyorsa
 * Söyleneni işitmiyor gibi davranıyor, yanından uzaklaşınca fark etmiyor, sizi aramıyorsa,
 * İşaret ederek gösterdiğiniz bir şeye bakmıyorsa,
 * Parmağıyla işaret ederek istediği şeyi göstermiyorsa,
