@@ -8,8 +8,8 @@ weight = 60
 keywords = ["Eşleme", "Oyunu"]
 draft = false
 written_at = "2016-06-10"
-available_at = "2017-06-20"
 [params]
+available_at = "2017-06-20"
 thumb = "http://otsimo.com/wp-content/uploads/2017/03/rain-man.jpg"
 +++
 
